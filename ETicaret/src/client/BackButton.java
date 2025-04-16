@@ -10,12 +10,6 @@ import javax.swing.JMenu;
 import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
 
-/**
- * @author busrayral
- */
-
-
-
 
 public class BackButton extends JButton implements ActionListener {
     
