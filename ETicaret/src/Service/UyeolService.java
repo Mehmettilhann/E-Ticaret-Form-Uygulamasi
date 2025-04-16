@@ -11,10 +11,6 @@ import dto.UyeolRequest;
 
 
 
-/**
- * @author busrayral
- */
-
 
 public class UyeolService {
 public void uyeol (UyeolRequest request) throws SQLException{
