@@ -40,11 +40,7 @@ public class SepetClient extends JFrame {
 	public static int userID;
 
 	
-	/**
-	 * @author busrayral
-	 */
-	
-	
+
 	
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
