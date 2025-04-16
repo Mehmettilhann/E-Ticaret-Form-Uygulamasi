@@ -19,11 +19,6 @@ import dbconnet.DatabaseManager;
 import dto.UrunDto;
 import client.Urun;
 
-/**
- * @author busrayral 
- * 
- */
-
 
      public class SepetService {
 
