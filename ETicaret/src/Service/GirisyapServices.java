@@ -16,9 +16,7 @@ import client.DashBoard;
 import client.Kullanici;
 import dto.UyeolRequest;
 
-/**
- * @author busrayral
- */
+
 
 public final class GirisyapServices {
 
