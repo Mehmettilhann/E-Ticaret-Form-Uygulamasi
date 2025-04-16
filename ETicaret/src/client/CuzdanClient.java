@@ -25,10 +25,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.awt.event.ActionEvent;
 
-/**
- * @author busrayral
- */
-
 
 
 public class CuzdanClient extends JFrame {
