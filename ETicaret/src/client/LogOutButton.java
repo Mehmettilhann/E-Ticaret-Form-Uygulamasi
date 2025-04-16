@@ -11,11 +11,6 @@ import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
 
 
-/**
- * @author busrayral
- */
-
-
 public class LogOutButton extends JButton implements ActionListener{
 	
 	JMenuBar menuBar2 = new JMenuBar();
