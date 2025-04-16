@@ -5,9 +5,6 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 
-/**
- * @author busrayral
- */
 public class DatabaseManager {
     private static final String JDBC_URL = "jdbc:mysql://localhost:3306/ticaret";
     private static final String USERNAME = "root";
