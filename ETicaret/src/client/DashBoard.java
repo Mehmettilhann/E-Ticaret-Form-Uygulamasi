@@ -33,11 +33,6 @@ import java.util.List;
 import java.util.Vector;
 import java.awt.event.ActionEvent;
 
-/**
- * @author busrayral
- */
-
-
 
 public class DashBoard extends JFrame {
 	
@@ -50,9 +45,7 @@ public class DashBoard extends JFrame {
 
 	
 
-	/**
-	 * @author busrayral
-	 */
+	
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
