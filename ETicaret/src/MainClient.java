@@ -12,9 +12,6 @@ import client.Kullanici;
 import java.awt.Font;
 
 
-/**
- * @author busrayral
- */
 public class MainClient extends JFrame {
 
 	private static final long serialVersionUID = 1L;
