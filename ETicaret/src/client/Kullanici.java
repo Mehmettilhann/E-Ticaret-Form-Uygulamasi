@@ -24,11 +24,6 @@ import java.awt.Font;
 import javax.swing.JFrame;
 
 
-/**
- * @author busrayral
- */
-
-
 
 
 public class Kullanici extends JFrame {
@@ -155,10 +150,7 @@ public class Kullanici extends JFrame {
 					e1.printStackTrace();
 					
 				}
-               //JFrame frame = new DashBoard();
-                
-              //  frame.setVisible(true);;
-                
+               
             };
 
         } 
