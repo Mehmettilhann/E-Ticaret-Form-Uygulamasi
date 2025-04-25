@@ -4,11 +4,6 @@ import java.lang.Thread.Builder;
 import java.util.Random;
 
 
-
-/**
- * @author busrayral
- */
-
 public class UrunDto {
 	
 	private String urunAdi;
