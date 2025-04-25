@@ -1,14 +1,8 @@
 package dto;
-/*Burada yapılan işlem geleb üye ol isteğini builder sayesinde döner.*/
+/*Burada yapılan işlem gelen üye ol isteğini builder sayesinde döner.*/
 import java.io.Serializable;
 import java.lang.Thread.Builder;
 import java.util.Random;
-
-/**
- * @author busrayral
- */
-
-
 
 
 
